@@ -22,7 +22,7 @@ So far it doesn't seem like `tts-1-hd` is worth the extra cost.
 
 ### Usage
 
-  `python src/text_to_speech.py <path_to_text_file> <output_directory>`
+  `python src/openai-tts-tool.py <path_to_text_file> <output_directory>`
 
 ### Convert EPUB to TXT
 
