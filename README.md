@@ -17,7 +17,7 @@ So far it doesn't seem like `tts-1-hd` is worth the extra cost.
 ### Installation
 
   1. `python -m venv openai-tts-tool`
-  2. `source env_name/bin/activate` or `.\openai-tts-tool\Scripts\Activate.ps1`
+  2. `source openai-tts-tool/bin/activate` or `.\openai-tts-tool\Scripts\Activate.ps1`
   3. `pip install pydub openai`
 
 ### Usage
